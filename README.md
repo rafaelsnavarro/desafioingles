@@ -1,2 +1,0 @@
-# desafioingles
-Created with CodeSandbox
